@@ -3,12 +3,8 @@ File Transfer Application made with Python using Socket Programming
 
 Anita Bui-Martinez: adb2221
 CSEE 4119: Computer Networks 
-Due: 03/26/23 @ 11:59 PM
-Professor Vishal Misra 
 
 Programming Assignment 1 - File Transfer 
-
-ATTN: Three (3) Slip Days requested! -> Turned in on 3/29/2023 
 
 Description: 
     File Transfer Application that uses UDP and TCP protocols and allows for one server and 
