@@ -1,7 +1,7 @@
 # FileApp
 File Transfer Application made with Python using Socket Programming
 
-Anita Bui-Martinez: adb2221
+Anita Bui-Martinez
 CSEE 4119: Computer Networks 
 
 Programming Assignment 1 - File Transfer 
